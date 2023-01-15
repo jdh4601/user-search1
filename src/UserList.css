@@ -1,0 +1,21 @@
+.user-list {
+  margin-top: 15px;
+  list-style: none;
+  margin-left: 100px;
+  margin-right: 120px;
+  border-radius: 15px;
+}
+
+.user-list:hover {
+  background-color: rgb(224, 224, 224);
+  cursor: pointer;
+}
+
+.profile-img {
+  border-radius: 15px;
+}
+
+.user-name {
+  margin-left: 10px;
+  font-size: 20px;
+}
